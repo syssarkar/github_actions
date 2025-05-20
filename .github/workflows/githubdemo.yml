@@ -34,4 +34,5 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
       -name: test 
-       run: echo sarkar
+       run: |
+          echo sarkar sarkar
